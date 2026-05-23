@@ -35,7 +35,7 @@
 ```bash
 pkg update && pkg upgrade -y
 pkg install git python -y
-git clone https://github.com/YOUR_USERNAME/DarkReflex-Pro
+git clone https://github.com/Marzzz-dev/D4RKR3FL3X.git
 cd DarkReflex-Pro
 pip install -r requirements.txt
 python darkreflex.py
