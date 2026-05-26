@@ -1,6 +1,6 @@
 #!/bin/bash
 # =============================================
-# DarkReflex Pro - Auto Installer
+# installer ygy
 # =============================================
 
 clear
